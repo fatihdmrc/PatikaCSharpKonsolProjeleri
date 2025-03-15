@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciOrtalama", "Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcgenCizme", "UcgenCizme\UcgenCizme.csproj", "{3010C299-FF6D-4647-8B5E-33016B6677F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaireCizme", "DaireCizme\DaireCizme.csproj", "{9969A218-275C-4BC4-B3BF-854EA0CFFFE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{3010C299-FF6D-4647-8B5E-33016B6677F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3010C299-FF6D-4647-8B5E-33016B6677F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3010C299-FF6D-4647-8B5E-33016B6677F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9969A218-275C-4BC4-B3BF-854EA0CFFFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9969A218-275C-4BC4-B3BF-854EA0CFFFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9969A218-275C-4BC4-B3BF-854EA0CFFFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9969A218-275C-4BC4-B3BF-854EA0CFFFE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
