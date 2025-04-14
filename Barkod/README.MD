@@ -6,7 +6,7 @@ Barkod oluşturulurken "NetBarcode" kütüphanesi kullanılmıştır. Öncelikle
 ```
 dotnet add package NetBarcode
 ```
-### Barkod Oluşturma programı kurulum:
+## Barkod Oluşturma programı kurulum:
 ```
 git clone https://github.com/fatihdmrc/PatikaCSharpKonsolProjeleri.git
 cd Barkod
